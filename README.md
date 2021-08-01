@@ -1,3 +1,5 @@
+El desarrollo se encuentra en Desafio_Spike.ipynb
+
 # Desafío Spike Abril 2021 - Predicción de precios de insumos básicos en Chile
 
 Algunos puntos importantes a considerar:
